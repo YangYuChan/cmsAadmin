@@ -1,11 +1,19 @@
-#主要功能
+vue,element-ui博客平台简易后台系统
+===
+
+ 主要功能
+ ---
 文章功能，页面编辑，菜单，自定义数据字段
-#ueditor
-集成了ueditor
-#服务端
+
+ueditor
+---
+
+服务端
+---
 已nodecms项目作为服务端
-#ajax
+
 axios
+----
 
 
 
